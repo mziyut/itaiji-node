@@ -6,9 +6,17 @@ Inspired by [camelmasa/itaiji](https://github.com/camelmasa/itaiji).
 
 ```sh
 npm install itaiji
+# or
+yarn install itaiji
 ```
 
 ## Usage
+
+```js
+var itaijiNode = require('itaiji');
+
+itaijiNode.seijitai('亞'); // -> "亜"
+```
 
 ```ts
 import { seijitai } from 'itaiji';
