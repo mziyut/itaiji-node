@@ -1,0 +1,10 @@
+/.github
+/bin/generate_seijitai_json.ts
+/example
+/node_modules
+/src
+/test
+.editorconfig
+.tags
+jest.config.js
+tsconfig.json
