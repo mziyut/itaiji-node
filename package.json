@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/mziyut/itaiji-node#readme",
   "devDependencies": {
-    "@jest/globals": "^29.7.0",
+    "@jest/globals": "^30.0.5",
     "@types/jest": "^29.5.12",
     "axios": "^1.6.8",
     "cheerio": "^1.0.0-rc.12",
