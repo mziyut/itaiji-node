@@ -1,5 +1,5 @@
 import axios from 'axios';
-import cheerio from 'cheerio';
+import * as cheerio from 'cheerio';
 import fs from 'fs';
 
 const url = 'https://wwwap.hi.u-tokyo.ac.jp/ships/itaiji_list.jsp';
